@@ -103,8 +103,6 @@ SMART_EDU/
    npm start
    ```
 
-npm install
-3. **Start the application**
-npm start
+
 
 
