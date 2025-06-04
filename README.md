@@ -37,19 +37,19 @@
 > 📌 Replace these with actual image files inside your `assets` folder once uploaded.
 
 ### 🔸 Role Selection Page
-![Role Selection](assets/role-selection.jpg)
+![Role Selection](Screenshots/Picture1.jpg)
 
 ### 🔐 Admin Login Page
-![Admin Login](assets/admin-login.jpg)
+![Admin Login](Screenshots/Picture2.jpg)
 
 ### 🧭 Admin Dashboard
-![Admin Dashboard](assets/admin-dashboard.jpg)
+![Admin Dashboard](Screenshots/Picture3.jpg)
 
 ### 📚 Subject Management
-![Subject Management](assets/subject-management.jpg)
+![Subject Management](Screenshots/Picture5.jpg)
 
 ### 📊 Teacher Dashboard
-![Teacher Dashboard](assets/teacher-dashboard.jpg)
+![Teacher Dashboard](Screenshots/Picture4.jpg)
 
 ---
 
