@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 
 👉 [Click here to view the live project](https://smart-edu.vercel.app)  
-*(Update the link if deployed elsewhere)*
+*(Link will be Updated shortly)*
 
 ---
 
