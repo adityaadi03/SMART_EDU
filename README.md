@@ -60,7 +60,7 @@
 | React.js       | Frontend development framework        |
 | CSS3           | Styling and layout                    |
 | Material UI    | Pre-built UI components               |
-| Firebase/Auth  | Authentication (if integrated)        |
+| Firebase/      | Authentication                        |
 | Vercel         | Deployment platform                   |
 
 ---
